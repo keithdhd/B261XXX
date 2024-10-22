@@ -1,6 +1,0 @@
-# Assessment
-
-```{r}
-print("Hello world")
-```
-
